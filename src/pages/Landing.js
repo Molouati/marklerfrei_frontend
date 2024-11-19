@@ -361,7 +361,7 @@ function Landing() {
 
           {/* Work flow  or Process or Ablauf or steps */}
           <div className="pb-20 relative bg-transparent steps-bg mt-20">
-            <PropertySlider />
+            //<PropertySlider />
             <h2
               id="Ablauf"
               className="pt-10 text-2xl lg:text-3xl text-center md:text-4xl font-bold text-gray-700"

@@ -41,7 +41,7 @@ const PropertySlider = () => {
 
     return (
         <div className='flex justify-center items-center bg-transparent left-0 right-0 mb-10'>
-            <div className='w-full md:w-11/12 lg:w-3/4 py-8 px-5 bg-white md:rounded-lg md:shadow-md'>
+            {/* <div className='w-full md:w-11/12 lg:w-3/4 py-8 px-5 bg-white md:rounded-lg md:shadow-md'>
 
                 <div className='w-full flex flex-row justify-between text-center items-center pb-6'>
                     <h2 className='text-base md:text-base lg:text-xl xl:text-2xl font-semibold'>
@@ -101,7 +101,7 @@ const PropertySlider = () => {
                         ))}
                     </Swiper>
                 )}
-            </div>
+            </div> */}
         </div>
     );
 }

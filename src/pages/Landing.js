@@ -360,11 +360,11 @@ function Landing() {
 
 
           {/* Work flow  or Process or Ablauf or steps */}
-          <div className="pb-20  bg-transparent steps-bg mt-20 pt-56">
+          <div className="pb-20  bg-transparent steps-bg mt-20 lg:pt-56  pt-72">
             {/* <PropertySlider /> */}
             <h2
               id="Ablauf"
-              className="pt-10  text-2xl lg:text-3xl text-center md:text-4xl font-bold text-gray-700"
+              className="pt-10 lg:mt-0 mt-10 text-2xl lg:text-3xl text-center md:text-4xl font-bold text-gray-700"
             >
               {dictionary["working"][languageReducer]["title"]}
             </h2>

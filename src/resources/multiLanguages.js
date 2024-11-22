@@ -54,7 +54,7 @@ export const dictionary = {
     },
     de: {
       title: "Immobilie maklerfrei verkaufen und vermieten",
-      description: "Mit nur einer Anzeige veröffentlichen wir Ihre Immobilie automatisch auf allen führenden Portalen, und Sie sparen bis zu die Hälfte!",
+      description: "Mit nur einer Anzeige veröffentlichen wir Ihre Immobilie automatisch auf allen führenden Portalen, und Sie sparen bis zur Hälfte!",
       startedButton: "Jetzt kostenlos registrieren",
       pricesButton: "Preise ansehen",
       dashboardButton: "Zum Dashboard",
@@ -445,7 +445,7 @@ export const dictionary = {
     },
     de: {
       title: "Registrieren Sie sich jetzt an und verkaufen oder vermieten Sie Ihre Immobilie maklerfrei!",
-      description: "Klicke auf den Button und erhalte mehr Anfragen für deine Immobilie.",
+      description: "Klicken Sie auf den Button und erhalten Sie mehr Anfragen für ihre Immobilie.",
       advertiseBtn: "Jetzt registrieren"
     }
   },

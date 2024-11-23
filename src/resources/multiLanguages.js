@@ -444,7 +444,7 @@ export const dictionary = {
       advertiseBtn: "Advertise Property"
     },
     de: {
-      title: "Registrieren Sie sich jetzt an und verkaufen oder vermieten Sie Ihre Immobilie maklerfrei!",
+      title: "Registrieren Sie sich jetzt und verkaufen oder vermieten Sie Ihre Immobilie maklerfrei!",
       description: "Klicken Sie auf den Button und erhalten Sie mehr Anfragen für ihre Immobilie.",
       advertiseBtn: "Jetzt registrieren"
     }
